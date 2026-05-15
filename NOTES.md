@@ -1,5 +1,7 @@
 # NOTES — Chiến lược đưa Express lên Lambda
 
+![alt text](image-1.png)
+
 ## Lựa chọn: Strategy A — `serverless-http`
 
 ## Lý do chọn
